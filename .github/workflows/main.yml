@@ -29,4 +29,4 @@ jobs:
           USER_ID: 3338624563
           USER_TOKEN: ${{ secrets.USER_TOKEN }}
           REPO: "netease-music-card-fixed"
-          AUTHOR: "luyanci"
+          AUTHOR: "空桜Yu"
